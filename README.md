@@ -1,2 +1,7 @@
-# nlp-implementations-from-scratch
-implementations of algorithms from original papers w/ understanding process
+## Current avaliable algorithm
+Byte-Pair Encoding | BPE 
+
+## coming soon implementations
+Minimum Edit Distance
+ELIZE-like program
+
