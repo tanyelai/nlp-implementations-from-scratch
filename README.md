@@ -1,4 +1,4 @@
-### Current avaliable algorithm
+### Current avaliable algorithms
 Byte-Pair Encoding | BPE\
 Simple Minimum Edit Distance
 
