@@ -1,9 +1,9 @@
 ### Current avaliable algorithm
-Byte-Pair Encoding | BPE\
+Byte-Pair Encoding | BPE
 
 ### Coming soon implementations
 Minimum Edit Distance\
-ELIZE-like program\
+ELIZE-like program
 
 ### References
         @article= { Byte-Pair Encoding },
