@@ -3,7 +3,7 @@ Byte-Pair Encoding | BPE
 
 ### Coming soon implementations
 Minimum Edit Distance\
-ELIZE-like program
+ELIZA-like program
 
 ### References
         @article= { Byte-Pair Encoding },
