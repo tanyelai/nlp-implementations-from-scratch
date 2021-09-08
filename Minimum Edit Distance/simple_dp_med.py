@@ -28,9 +28,9 @@ def find_min_edit_distance(source, target):
  
             # If last character are different, consider all possibilities and find minimum
             else:
-                dist[i][j] = min(dist[i][j-1] + ins_cost,        # Insert
-                                   dist[i-1][j] + del_cost,      # Remove
-                                   dist[i-1][j-1] + sub_cost)    # Replace
+                dist[i][j] = min( dist[i][j-1] + ins_cost,        # Insert
+                                  dist[i-1][j] + del_cost,        # Remove
+                                  dist[i-1][j-1] + sub_cost )     # Replace
     return dist[n][m]
 
 print(find_min_edit_distance('insertion', 'execution'))
