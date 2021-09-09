@@ -1,6 +1,6 @@
 ## Current avaliable algorithms
 • Byte-Pair Encoding | BPE\
-• Simple Minimum Edit Distance
+• Simple Minimum Edit Distance\
 • LISA | ELIZA-like program 
 
 ## Coming soon implementations
