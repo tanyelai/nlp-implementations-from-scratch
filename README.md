@@ -1,11 +1,11 @@
 ## Current avaliable algorithms
 • Byte-Pair Encoding | BPE\
 • Simple Minimum Edit Distance
+• LISA | ELIZA-like program 
 
 ## Coming soon implementations
 • Minimum Edit Distance with backtrace\
 • Weighted Minimum Edit Distance\
-• ELIZA-like program
 
 ## References
         @article= { Byte-Pair Encoding },
@@ -16,6 +16,11 @@
         @article= { Minimum Edit Distance },
         author= { Dan Jurafsky },
         reference link= { https://web.stanford.edu/class/cs124/lec/med.pdf }
+        
+        
+        @article= { ELIZA },
+        title= { ELIZA A Computer Program For the Study of Natural Language Communication Between Man And Machine },
+        author= { Joseph Weizenbaum }
 
 
 
