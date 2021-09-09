@@ -1,11 +1,11 @@
 ## Current avaliable algorithms
-Byte-Pair Encoding | BPE\
-Simple Minimum Edit Distance
+• Byte-Pair Encoding | BPE\
+• Simple Minimum Edit Distance
 
 ## Coming soon implementations
-Minimum Edit Distance with backtrace\
-Weighted Minimum Edit Distance\
-ELIZA-like program
+• Minimum Edit Distance with backtrace\
+• Weighted Minimum Edit Distance\
+• ELIZA-like program
 
 ## References
         @article= { Byte-Pair Encoding },
