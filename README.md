@@ -6,6 +6,7 @@
 ## Coming soon implementations
 • Minimum Edit Distance with backtrace\
 • Weighted Minimum Edit Distance\
+• N-gram Language models | Bigram | Trigram etc.
 
 ## References
         @article= { Byte-Pair Encoding },
