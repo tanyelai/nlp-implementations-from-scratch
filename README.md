@@ -16,8 +16,9 @@
         
         
         @article= { Minimum Edit Distance },
-        author= { Dan Jurafsky },
-        reference link= { https://web.stanford.edu/class/cs124/lec/med.pdf }
+        author= { Dan Jurafsky, James H. Martin },
+        reference link= { https://web.stanford.edu/class/cs124/lec/med.pdf,
+                          Speech and Language Processing (3rd ed. draft)}
         
         
         @article= { ELIZA },
