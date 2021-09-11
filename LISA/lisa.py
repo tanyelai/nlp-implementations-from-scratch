@@ -265,7 +265,7 @@ grammar = {
 }
 
 
-print('Therapist ELIZA\n---------')
+print('Therapist LISA\n---------')
 print('Talk to the program by typing in plain English, using normal upper-')
 print('and lower-case letters and punctuation.  Enter "quit" when done.')
 print('='*70)
