@@ -1,6 +1,7 @@
 ## Current avaliable algorithms
 • Byte-Pair Encoding | BPE\
-• Simple Minimum Edit Distance\
+• Levenshtein Minimum Edit Distance\
+• Alternative Levenshtein Minimum Edit Distance\
 • LISA | ELIZA-like program 
 
 ## Coming soon implementations
