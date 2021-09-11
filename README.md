@@ -24,7 +24,8 @@
         
         
         @article= { ELIZA },
-        title= { ELIZA A Computer Program For the Study of Natural Language Communication Between Man And Machine },
+        title= { ELIZA A Computer Program For the Study of Natural
+                 Language Communication Between Man And Machine },
         author= { Joseph Weizenbaum }
 
 
