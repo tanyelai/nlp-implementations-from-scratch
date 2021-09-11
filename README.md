@@ -3,11 +3,13 @@
 • Levenshtein Minimum Edit Distance\
 • Alternative Levenshtein Minimum Edit Distance\
 • LISA | ELIZA-like program 
+> For further information feel free to check algorithm files.
 
 ## Coming soon implementations
 • Minimum Edit Distance with backtrace\
 • Weighted Minimum Edit Distance\
 • N-gram Language models | Bigram | Trigram etc.
+
 
 ## References
         @article= { Byte-Pair Encoding },
@@ -24,7 +26,6 @@
         @article= { ELIZA },
         title= { ELIZA A Computer Program For the Study of Natural Language Communication Between Man And Machine },
         author= { Joseph Weizenbaum }
-
 
 
 ## This challange has started at 08.09.2021
