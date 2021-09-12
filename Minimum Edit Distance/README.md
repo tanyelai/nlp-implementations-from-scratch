@@ -43,6 +43,11 @@ Every time we enter a cell, remember where we came from and when we reach the en
 
 <br />
 
+## After adding backtrace my outputs for "intention" to "execution"
+
+![image](https://user-images.githubusercontent.com/44132720/132994861-86157961-7c93-4b04-a65e-f1ebd25df444.png)
+
+<br />
 
 ## Performance
 Time: O(n\*m)\
