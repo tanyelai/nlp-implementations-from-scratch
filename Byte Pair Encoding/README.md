@@ -3,7 +3,7 @@
 > Byte Pair Encoding (BPE) (Gage, 1994) is a simple data compression technique that iteratively replaces the most frequent pair of bytes in a sequence with a single, unused byte. We adapt this
 algorithm for word segmentation. Instead of merging frequent pairs of bytes, we merge characters or
 character sequences.\
-*- Rico Sennrich and Barry Haddow and Alexandra Birch*
+*- R. Sennrich and B. Haddow and A. Birch*
 <br />
 The translation of rare words is an open problem and this algorithm is especially useful in dealing with unknown words.
 <br />
