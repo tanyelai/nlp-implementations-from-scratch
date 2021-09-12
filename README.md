@@ -7,8 +7,7 @@
 > For further information feel free to check algorithm files.
 
 ## Coming soon implementations
-• Weighted Minimum Edit Distance\
-• N-gram Language models | Bigram | Trigram etc.
+• N-gram Language models
 
 
 ## References
