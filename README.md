@@ -13,8 +13,10 @@
 
 ## References
         @article= { Byte-Pair Encoding },
-        title= { Neural Machine Translation of Rare Words with Subword Units },
-        author= {Rico Sennrich and Barry Haddow and Alexandra Birch}
+        title= { Neural Machine Translation of Rare Words with Subword Units (2016),
+                 A New Algorithm for Data Compression (1994)},
+        author= {Rico Sennrich and Barry Haddow and Alexandra Birch |2016,
+                 Philip Gage |1994}
         
         
         @article= { Minimum Edit Distance },
