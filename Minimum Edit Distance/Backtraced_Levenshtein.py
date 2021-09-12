@@ -13,9 +13,10 @@ def LevenshteinDistance(dist, source, target, del_cost, ins_cost, sub_cost):
                                   dist[i-1][j-1] + sub_cost )  ## Replace
 
     back = (Backtrace(dist, source, target))
-    print(back[0])
-    print(back[1])
-    print(back[2])
+    print("The coordinates of the path: \n",back[0])
+    print("\n '^' correspond to insertion, '<-' correspond to deletion ")
+    print("new source: ", back[1])
+    print("new target: ", back[2])
 
     edit_distance = dist[len(source)][len(target)]
     return edit_distance, dist
@@ -102,11 +103,3 @@ print(DataFrame(dist.astype(int)))
 
 
 print("\nEdit distance: ", int(res[0]))
-
-
-
-
-
-
-
-
