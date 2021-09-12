@@ -1,15 +1,15 @@
 ## Byte Pair Encoding Algorithm
 
-Byte Pair Encoding (BPE) (Gage, 1994) is a simple data compression technique that iteratively replaces the most frequent pair of bytes in a sequence with a single, unused byte. We adapt this
+> Byte Pair Encoding (BPE) (Gage, 1994) is a simple data compression technique that iteratively replaces the most frequent pair of bytes in a sequence with a single, unused byte. We adapt this
 algorithm for word segmentation. Instead of merging frequent pairs of bytes, we merge characters or
-character sequences.
+character sequences.\
+*- Rico Sennrich and Barry Haddow and Alexandra Birch*
 <br />
-<br />
-The translation of rare words is an open problem and this algorithm is especially useful in dealing with unknown words.\
+The translation of rare words is an open problem and this algorithm is especially useful in dealing with unknown words.
 <br />
 NLP algorithms often learn some facts about language from one corpus and then use these trained reality to make decisions about words it has never seen before.
 Thus if our training corpus contains, say the words *low*, *new*, *newer* but not *lower*, then if the word *lower* appears in our unknown corpus,
-our system will not know what to do.\
+our system will not know what to do.
 <br />
 
 ## So basicly how it works?
