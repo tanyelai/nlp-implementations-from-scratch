@@ -2,11 +2,11 @@
 • Byte-Pair Encoding | BPE\
 • Levenshtein Minimum Edit Distance\
 • Alternative Levenshtein Minimum Edit Distance\
+• Minimum Edit Distance with backtrace\
 • LISA | ELIZA-like program 
 > For further information feel free to check algorithm files.
 
 ## Coming soon implementations
-• Minimum Edit Distance with backtrace\
 • Weighted Minimum Edit Distance\
 • N-gram Language models | Bigram | Trigram etc.
 
