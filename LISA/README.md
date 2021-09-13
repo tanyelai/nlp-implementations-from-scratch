@@ -16,15 +16,15 @@
 of a Rogerian psychotherapist ( Weizenbaum, 1966 ).\
 *"Speech and Language Processing"*
 
-<\b>
+</b>
 ELIZA is amazingly simple program that uses pattern matching to link phrases together like "I need X" and translate them into appropriate outputs like 
 "What would it mean to you if you got X". This basic idea succeeds in this domain because ELIZA does not actually need to know anything to mimic a Rogerian psychotherapist.
 
-<\b>
+</b>
 ## About LISA
 
 Substitutions and capture groups are very useful in implementing simple chatbots like ELIZA.
-<\b>
-<\b>
+</b>
+</b>
 Eliza works by having a series or cascade of regular expression substitutions each of which matches and changes some part of the input lines. The first substitutions then
 change all instances of "my" to "your", and "I'm" to "You are" and so on. The next set of substitutions matches and replaces other patterns in the input.
