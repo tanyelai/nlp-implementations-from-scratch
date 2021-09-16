@@ -18,7 +18,7 @@ We'll use dynamic programming to compute distance[n,m] bottom up, combining solu
 <br />
 <br />
 
-Bottom up:\
+### Bottom up:
 • We compute distance(i,j) for small i,j\
 • And compute larger distance(i,j) based on previously computed smaller values\
 • i.e., compute distance(i,j) for all i(0 < i < n)  and j(0 < j < m)
