@@ -7,7 +7,7 @@
 > For further information feel free to check algorithm files.
 
 ## Coming soon implementations
-• Bigram Language Models
+• Bigram Language Models\
 • Trigram Language Models and analyze with others
 
 
