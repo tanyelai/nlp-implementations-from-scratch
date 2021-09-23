@@ -7,7 +7,8 @@
 > For further information feel free to check algorithm files.
 
 ## Coming soon implementations
-• N-gram Language models
+• Bigram Language Models
+• Trigram Language Models and analyze with others
 
 
 ## References
