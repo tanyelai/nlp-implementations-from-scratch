@@ -3,7 +3,7 @@
 • LISA | ELIZA-like program\
 • Levenshtein Minimum Edit Distance\
 • Alternative Levenshtein Minimum Edit Distance\
-• Minimum Edit Distance with backtrace
+• Minimum Edit Distance with backtrace\
 • Unigram and Bigram Language Models
 > For further information feel free to check algorithm files.
 
