@@ -14,7 +14,7 @@ import collections
 #             'do': 1, 'not': 1, 'like': 1, 'green': 1, 'eggs': 1, 'and': 1, 'ham': 1})
 def get_corpus(filename):
     vocab = collections.defaultdict(int)
-    with open(filename, "r", encoding='utf-8') as fhand:
+    with open(filename, "r") as fhand:
         for line in fhand:
             words = line.strip().split() ## delete left and right spaces and split everyword line by line
             for word in words:
@@ -40,23 +40,26 @@ def bigram_calc(word1, word2):
     ## It only makes easy unigram calculations
     c_num = 0 
     c_denom = 0
-    with open("mini_corpus.txt", "r", encoding='utf-8') as f:
+    with open("sci_space.txt", "r") as f:
         for line in f:
             c = 0
-            words = line.split()
+            words = line.strip().split()
             for word in words:
                 c+=1
                 if word1 == word:
                     c_denom += 1
                 if word1 == word and word2 == words[c]:
                     c_num += 1
+                if c+1 == len(words):
+                    break
     return c_num/c_denom
     
 
 #main
-corpus = get_corpus("mini_corpus.txt")
-res = unigram_calc(corpus, "am")
-print("Unigram res: ",res)
+# corpus = get_corpus("mini_corpus.txt")
+corpus = get_corpus("sci_space.txt")
+res = unigram_calc(corpus, "for")
+print("Unigram res: ", res)
 
-res = bigram_calc("<s>", "Sam" )
-print("Bigram res: ",res)
+res = bigram_calc("for", "a" )
+print("Bigram res: ", res)
