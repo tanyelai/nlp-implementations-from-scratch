@@ -4,10 +4,10 @@
 • Levenshtein Minimum Edit Distance\
 • Alternative Levenshtein Minimum Edit Distance\
 • Minimum Edit Distance with backtrace
+• Unigram and Bigram Language Models
 > For further information feel free to check algorithm files.
 
 ## Coming soon implementations
-• Bigram Language Models\
 • Trigram Language Models and analyze with others
 
 
