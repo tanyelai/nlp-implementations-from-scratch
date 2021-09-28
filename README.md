@@ -8,7 +8,7 @@
 > For further information feel free to check algorithm files.
 
 ## Coming soon implementations
-• Trigram Language Models and analyze with others
+• Text generation using bigram
 
 
 ## References
