@@ -29,6 +29,10 @@
         title= { ELIZA A Computer Program For the Study of Natural
                  Language Communication Between Man And Machine },
         author= { Joseph Weizenbaum }
+        
+        @article= { N-grams Language Models },
+        author= { Dan Jurafsky, James H. Martin },
+        reference link= { Speech and Language Processing (3rd ed. draft) }
 
 
 ## This challenge has started at 08.09.2021
