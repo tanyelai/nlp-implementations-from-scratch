@@ -9,6 +9,7 @@
 
 ## Coming soon implementations
 • Text generation using bigram
+• Naive Bayes Algorithm
 
 
 ## References
