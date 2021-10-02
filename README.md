@@ -8,7 +8,7 @@
 > For further information feel free to check algorithm files.
 
 ## Coming soon implementations
-• Text generation using bigram
+• Text generation using bigram\
 • Naive Bayes Algorithm
 
 
