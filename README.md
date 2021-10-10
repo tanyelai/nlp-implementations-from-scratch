@@ -1,3 +1,5 @@
+Writing algorithms without using external nlp libraries.
+
 ## Current avaliable algorithms
 • Byte-Pair Encoding | BPE\
 • LISA | ELIZA-like program\
