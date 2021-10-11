@@ -11,7 +11,7 @@ Writing algorithms without using external nlp libraries.
 
 ## Coming soon implementations
 • Text generation using bigram\
-• Naive Bayes Algorithm
+• Naive Bayes Algorithm for text classification
 
 
 ## References
