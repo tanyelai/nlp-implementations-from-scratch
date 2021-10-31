@@ -11,7 +11,8 @@ line_num = 0
 with open('Adresler-rev.txt', encoding='utf8') as f:
     for line in f:
         line_num += 1
-        catched = re.findall(pattern, line)
-        cleaned = [item[0] for item in catched]
+        catched = re.findall(pattern, line)      # Catching all patterns
+        cleaned = [item[0] for item in catched]  # This line is added to display only the needed information
+                                                 # which mean whole sentence rather than word by word in other cases.
         
-        print("Line num {}: Catched pattern: {}".format(line_num, cleaned))
+        print("Line num {}: Catched pattern: {}".format(line_num, cleaned)) # Display all addresses that catched
