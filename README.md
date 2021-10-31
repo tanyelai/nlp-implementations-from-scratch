@@ -6,9 +6,11 @@ Writing algorithms without using external nlp libraries.
 • Levenshtein Minimum Edit Distance\
 • Alternative Levenshtein Minimum Edit Distance\
 • Minimum Edit Distance with backtrace\
-• Unigram and Bigram Language Models\
+• Unigram and Bigram Language Models
+
+## Current avaliable NLP related homeworks/projects
 • A RegEx Homework which requires Address Extraction ( Includes analysis PDF )
-> For further information feel free to check algorithm files.
+> For further information feel free to check files.
 
 ## Coming soon implementations
 • Text generation using bigram\
