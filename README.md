@@ -14,6 +14,8 @@ Writing algorithms without using external nlp libraries.
 • Text generation using bigram\
 • Naive Bayes Algorithm for text classification
 
+-> It will continue after my finals
+
 
 ## References
         @article = { Byte-Pair Encoding },
