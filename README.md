@@ -45,6 +45,6 @@ Writing algorithms without using external nlp libraries.
         title = { Speech and Language Processing (3rd ed. draft) }
 
 
-## This challenge has started at 08.09.2021
+## __
 The main motivation behind this repo is getting deep understanding with the essential structures of NLP.\
 I follow the "Speech and Language Processing 3rd Ed." written by Dan Jurafsky and James H. Martin.
